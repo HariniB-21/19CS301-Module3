@@ -2,8 +2,8 @@
 ### Register No - 212222020008
 ### Name - Harini B
 
-# EX: 3.1 String
-### Aim: Write a python program to find the length of the given string.
+# ExNo: 3.1 String
+### Aim: To write a python program to find the length of the given string.
 ### Algorithm:
 
 **STEP 1:** Start.
@@ -31,8 +31,9 @@ print(f"The length of the string '{str}' is",a)
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-# EX: 3.2 Regex
-### Aim: For the given list, filter all elements that do not contain - items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner']
+# ExNo: 3.2 Regex
+### Aim: To write a python program For the given list, filter all elements that do not contain - items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner']
+
 ### Algorithm:
 
 **STEP 1:** Start.
@@ -58,8 +59,8 @@ print(filtered_items)
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-# EX: 3.3 List
-### Aim: Write a non parameterized function to print the list in descending order that is entered by the user.
+# ExNo: 3.3 List
+### Aim: To write a non parameterized function to print the list in descending order that is entered by the user.
 ### Algorithm:
 
 **STEP 1:** Start.
@@ -90,8 +91,8 @@ def sortlist():
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-# EX: 3.4 Tuples
-### Aim: Write a python program to create the tuple by the multiples of 5 up to N. Get the N value from the user.
+# ExNo: 3.4 Tuples
+### Aim: To write a python program to create the tuple by the multiples of 5 up to N. Get the N value from the user.
 ### Algorithm:
 
 **STEP 1:** Start.
