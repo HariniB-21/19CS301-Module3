@@ -125,7 +125,7 @@ def sortlist():
 
 ### Result: Thus, the given program is implemented and executed successfully .
 
-# Ex No: 3.5 
+# Ex No: 3.5 SEB Splitstring
 ## Aim:
 To write a Python function that accepts an email ID and splits the string using the "@" symbol.
 
